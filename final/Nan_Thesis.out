@@ -1,0 +1,66 @@
+\BOOKMARK [0][-]{Doc-Start}{Permission to Use}{}% 1
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 2
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgements}{}% 3
+\BOOKMARK [0][-]{chapter*.3}{Contents}{}% 4
+\BOOKMARK [0][-]{chapter*.3}{List of Tables}{}% 5
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 6
+\BOOKMARK [0][-]{chapter*.3}{List of Abbreviations}{}% 7
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 8
+\BOOKMARK [0][-]{chapter.2}{Problem Definition}{}% 9
+\BOOKMARK [1][-]{section.2.1}{How to identify Non-IP based devices?}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{How to overcome packet size limitation of BLE communication?}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{How to serve multiple applications as a background service}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{How to provide interface to support different technologies}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.5}{Research Goal}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Literature Review}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Internet of Things \(IoT\)}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.2}{Personal Cloud}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.3}{SOAP and REST}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.3.1}{SOAP}{section.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.3.2}{REST}{section.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.3}{REST VS SOAP}{section.3.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.4}{REST VS SOAP in mobile app}{section.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.5}{Summary}{section.3.3}% 23
+\BOOKMARK [1][-]{section.3.4}{MQTT and CoAP}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.4.1}{MQTT}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.2}{CoAP}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.3}{COAP VS MQTT}{section.3.4}% 27
+\BOOKMARK [2][-]{subsection.3.4.4}{Summary}{section.3.4}% 28
+\BOOKMARK [1][-]{section.3.5}{Bluetooth}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.5.1}{Classic Bluetooth}{section.3.5}% 30
+\BOOKMARK [2][-]{subsection.3.5.2}{Bluetooth Low Energy}{section.3.5}% 31
+\BOOKMARK [2][-]{subsection.3.5.3}{Classic Bluetooth vs Bluetooth Low Energy}{section.3.5}% 32
+\BOOKMARK [2][-]{subsection.3.5.4}{Summary}{section.3.5}% 33
+\BOOKMARK [1][-]{section.3.6}{CAP Theorem}{chapter.3}% 34
+\BOOKMARK [0][-]{chapter.4}{Architecture}{}% 35
+\BOOKMARK [1][-]{section.4.1}{Application Layer}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.1.1}{Process component}{section.4.1}% 37
+\BOOKMARK [2][-]{subsection.4.1.2}{Communication component}{section.4.1}% 38
+\BOOKMARK [1][-]{section.4.2}{Network Layer}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.3}{Detail Design}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.3.1}{Application layer}{section.4.3}% 41
+\BOOKMARK [2][-]{subsection.4.3.2}{Network layer}{section.4.3}% 42
+\BOOKMARK [1][-]{section.4.4}{Proposed Solutions for Problems}{chapter.4}% 43
+\BOOKMARK [0][-]{chapter.5}{Implementation}{}% 44
+\BOOKMARK [1][-]{section.5.1}{Application Layer}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.2}{Network Layer}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.3}{Demo Applicaitons for Experiment}{chapter.5}% 47
+\BOOKMARK [0][-]{chapter.6}{Experiments/Evaluations}{}% 48
+\BOOKMARK [1][-]{section.6.1}{Goals of Experiment}{chapter.6}% 49
+\BOOKMARK [1][-]{section.6.2}{Experiment Setup}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.3}{Details}{chapter.6}% 51
+\BOOKMARK [2][-]{subsection.6.3.1}{Minimum Data with Interval}{section.6.3}% 52
+\BOOKMARK [2][-]{subsection.6.3.2}{Multiple Packets}{section.6.3}% 53
+\BOOKMARK [2][-]{subsection.6.3.3}{Round-Trip}{section.6.3}% 54
+\BOOKMARK [2][-]{subsection.6.3.4}{Multiple Apps}{section.6.3}% 55
+\BOOKMARK [1][-]{section.6.4}{Conclusion}{chapter.6}% 56
+\BOOKMARK [0][-]{chapter.7}{Conclusion and Future Work}{}% 57
+\BOOKMARK [1][-]{section.7.1}{Summary and Contributions}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.2}{Future Work}{chapter.7}% 59
+\BOOKMARK [2][-]{subsection.7.2.1}{Data Rate}{section.7.2}% 60
+\BOOKMARK [2][-]{subsection.7.2.2}{Availability}{section.7.2}% 61
+\BOOKMARK [2][-]{subsection.7.2.3}{Cross-Platform}{section.7.2}% 62
+\BOOKMARK [2][-]{subsection.7.2.4}{Underlying Technology}{section.7.2}% 63
+\BOOKMARK [2][-]{subsection.7.2.5}{Security}{section.7.2}% 64
+\BOOKMARK [0][-]{subsection.7.2.5}{References}{}% 65
+\BOOKMARK [0][-]{appendix.A}{Link for code}{}% 66

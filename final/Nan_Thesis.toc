@@ -1,0 +1,98 @@
+\contentsline {chapter}{Permission to Use}{i}{Doc-Start}
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{Contents}{iv}{chapter*.3}
+\contentsline {chapter}{List of Tables}{vi}{chapter*.3}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.3}
+\contentsline {chapter}{List of Abbreviations}{viii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Problem Definition}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}How to identify Non-IP based devices?}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}How to overcome packet size limitation of BLE communication?}{2}{section.2.2}
+\contentsline {section}{\numberline {2.3}How to serve multiple applications as a background service}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}How to provide interface to support different technologies}{3}{section.2.4}
+\contentsline {section}{\numberline {2.5}Research Goal}{3}{section.2.5}
+\contentsline {chapter}{\numberline {3}Literature Review}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Internet of Things (IoT)}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Personal Cloud}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}SOAP and REST}{6}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}SOAP}{6}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}REST}{7}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}REST VS SOAP}{8}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}REST VS SOAP in mobile app}{9}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Summary}{9}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}MQTT and CoAP}{10}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}MQTT}{10}{subsection.3.4.1}
+\contentsline {subsubsection}{Packet Format}{10}{subsubsection*.7}
+\contentsline {subsubsection}{Feature}{10}{subsubsection*.9}
+\contentsline {subsection}{\numberline {3.4.2}CoAP}{11}{subsection.3.4.2}
+\contentsline {subsubsection}{Packet Format}{11}{subsubsection*.10}
+\contentsline {subsubsection}{Feature}{12}{subsubsection*.12}
+\contentsline {subsection}{\numberline {3.4.3}COAP VS MQTT}{14}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Summary}{14}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}Bluetooth}{15}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Classic Bluetooth}{15}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Bluetooth Low Energy}{16}{subsection.3.5.2}
+\contentsline {subsubsection}{Bluetooth 4.1}{17}{subsubsection*.18}
+\contentsline {subsubsection}{Bluetooth 4.2}{18}{subsubsection*.19}
+\contentsline {subsubsection}{iBeacon}{18}{subsubsection*.20}
+\contentsline {subsubsection}{6LowPAN}{19}{subsubsection*.21}
+\contentsline {subsection}{\numberline {3.5.3}Classic Bluetooth vs Bluetooth Low Energy}{19}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Summary}{20}{subsection.3.5.4}
+\contentsline {section}{\numberline {3.6}CAP Theorem}{20}{section.3.6}
+\contentsline {chapter}{\numberline {4}Architecture}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}Application Layer}{22}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Process component}{23}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Communication component}{24}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Network Layer}{25}{section.4.2}
+\contentsline {section}{\numberline {4.3}Detail Design}{26}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Application layer}{26}{subsection.4.3.1}
+\contentsline {subsubsection}{Process Component}{26}{subsubsection*.26}
+\contentsline {subsubsection}{Communication Component}{26}{subsubsection*.27}
+\contentsline {subsection}{\numberline {4.3.2}Network layer}{27}{subsection.4.3.2}
+\contentsline {subsubsection}{Client Side}{27}{subsubsection*.28}
+\contentsline {subsubsection}{Server Side}{28}{subsubsection*.29}
+\contentsline {subsubsection}{Flowchart}{28}{subsubsection*.30}
+\contentsline {subsubsection}{Packet Format}{30}{subsubsection*.33}
+\contentsline {subsubsection}{Communication Mechanism}{31}{subsubsection*.35}
+\contentsline {subsubsection}{Virtual Resource}{32}{subsubsection*.37}
+\contentsline {section}{\numberline {4.4}Proposed Solutions for Problems}{33}{section.4.4}
+\contentsline {subsubsection}{Identify Non-IP based devices}{33}{subsubsection*.39}
+\contentsline {subsubsection}{Overcome packet size limitation of BLE communication}{34}{subsubsection*.40}
+\contentsline {subsubsection}{Serve multiple applications as a background service}{34}{subsubsection*.41}
+\contentsline {subsubsection}{Providing interface to support different technologies}{34}{subsubsection*.42}
+\contentsline {chapter}{\numberline {5}Implementation}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Application Layer}{35}{section.5.1}
+\contentsline {section}{\numberline {5.2}Network Layer}{36}{section.5.2}
+\contentsline {section}{\numberline {5.3}Demo Applicaitons for Experiment}{37}{section.5.3}
+\contentsline {chapter}{\numberline {6}Experiments/Evaluations}{39}{chapter.6}
+\contentsline {section}{\numberline {6.1}Goals of Experiment}{39}{section.6.1}
+\contentsline {section}{\numberline {6.2}Experiment Setup}{39}{section.6.2}
+\contentsline {section}{\numberline {6.3}Details}{40}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Minimum Data with Interval}{40}{subsection.6.3.1}
+\contentsline {subsubsection}{Description}{40}{subsubsection*.50}
+\contentsline {subsubsection}{Procedure}{40}{subsubsection*.51}
+\contentsline {subsubsection}{Result and Analysis}{41}{subsubsection*.52}
+\contentsline {subsection}{\numberline {6.3.2}Multiple Packets}{43}{subsection.6.3.2}
+\contentsline {subsubsection}{Description}{43}{subsubsection*.57}
+\contentsline {subsubsection}{Procedure}{44}{subsubsection*.58}
+\contentsline {subsubsection}{Result and Analysis}{44}{subsubsection*.59}
+\contentsline {subsection}{\numberline {6.3.3}Round-Trip}{46}{subsection.6.3.3}
+\contentsline {subsubsection}{Description}{46}{subsubsection*.63}
+\contentsline {subsubsection}{Procedure}{46}{subsubsection*.64}
+\contentsline {subsubsection}{Result and Analysis}{46}{subsubsection*.65}
+\contentsline {subsection}{\numberline {6.3.4}Multiple Apps}{48}{subsection.6.3.4}
+\contentsline {subsubsection}{Description}{48}{subsubsection*.69}
+\contentsline {subsubsection}{Procedure}{48}{subsubsection*.70}
+\contentsline {subsubsection}{Result and Analysis}{49}{subsubsection*.71}
+\contentsline {section}{\numberline {6.4}Conclusion}{49}{section.6.4}
+\contentsline {chapter}{\numberline {7}Conclusion and Future Work}{51}{chapter.7}
+\contentsline {section}{\numberline {7.1}Summary and Contributions}{51}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future Work}{52}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Data Rate}{52}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Availability}{52}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Cross-Platform}{52}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Underlying Technology}{53}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Security}{53}{subsection.7.2.5}
+\contentsline {chapter}{References}{54}{subsection.7.2.5}
+\contentsline {chapter}{\numberline {A}Link for code}{57}{appendix.A}

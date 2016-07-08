@@ -1,0 +1,42 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Trend of devices vs people \cite {philip2015iottrend}\relax }}{4}{figure.caption.5}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces SOAP message structure example \cite {mitra2003soap}\relax }}{7}{figure.caption.6}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces MQTT message format\cite {banks2014mqtt}\relax }}{10}{figure.caption.8}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces CoAP message format \cite {shelby2014constrained}\relax }}{11}{figure.caption.11}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces From Web Applications to IoT Nodes \cite {armcoaptutorial2014}\relax }}{13}{figure.caption.13}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Topology of Classic Bluetooth \cite {bluetooth2010bluetooth}\relax }}{16}{figure.caption.14}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The relationship between Bluetooth Smart and Bluetooth Smart Ready devices \cite {torvmark2013threeflavourofbluetooth}\relax }}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces GATT format \cite {bluetooth2010bluetooth}\relax }}{17}{figure.caption.16}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Topology of BLE \cite {bluetooth2010bluetooth}\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces IPv6 and IPSS on the Bluetooth LE Stack \cite {nieminen2015ipv6}\relax }}{19}{figure.caption.22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Layers of proposed architecture\relax }}{22}{figure.caption.23}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Application layer structure\relax }}{23}{figure.caption.24}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Process component flowchart\relax }}{24}{figure.caption.25}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Life cycle of network service\relax }}{29}{figure.caption.31}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Life cycle of network service\relax }}{30}{figure.caption.32}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Packet structure\relax }}{31}{figure.caption.34}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Communication mechanism\relax }}{32}{figure.caption.36}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Virtual resource mechanism\relax }}{33}{figure.caption.38}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces core-code for process componenet\relax }}{35}{figure.caption.43}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces core-code for communication compoennet\relax }}{36}{figure.caption.44}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces core-code for client service\relax }}{36}{figure.caption.45}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces core-code for server service\relax }}{37}{figure.caption.46}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces screenshot of demo application\relax }}{38}{figure.caption.47}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Packet structure\relax }}{41}{figure.caption.53}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Result of sending headers with no interval\relax }}{42}{figure.caption.54}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Result of sending headers with 150ms interval\relax }}{42}{figure.caption.55}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Result of sending headers with 200ms interval\relax }}{43}{figure.caption.56}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Results of sending multiple packets\relax }}{44}{figure.caption.60}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Result of sending 12-byte payload\relax }}{45}{figure.caption.61}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Result of sending 28-byte payload\relax }}{45}{figure.caption.62}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces First set of 4-byte round trip\relax }}{46}{figure.caption.66}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Second set of 4-byte round trip\relax }}{47}{figure.caption.67}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Third set of 4-byte round trip\relax }}{47}{figure.caption.68}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Result of Multi-App Experiment\relax }}{49}{figure.caption.72}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

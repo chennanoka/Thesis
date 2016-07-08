@@ -1,0 +1,261 @@
+\begin{thebibliography}{10}
+
+\bibitem{arcitura2016}
+Arcitura.
+\newblock Rest constraints.
+\newblock \url{http://whatisrest.com/rest_constraints/index}, 2016.
+\newblock Accessed April, 2016.
+
+\bibitem{banks2014mqtt}
+Andrew Banks and Rahul Gupta.
+\newblock Mqtt version 3.1. 1.
+\newblock {\em OASIS standard}, 2014.
+
+\bibitem{barrett2012IoT}
+John Barrett.
+\newblock The internet of things.
+\newblock \url{http://tedxtalks.ted.com/video/The-Internet-of-Things-Dr-John},
+  2012.
+\newblock Accessed April, 2016.
+
+\bibitem{chawathaworncharoen2015feasibility}
+Varat Chawathaworncharoen, Vasaka Visoottiviseth, and Ryousei Takano.
+\newblock Feasibility evaluation of 6lowpan over bluetooth low energy.
+\newblock {\em arXiv preprint arXiv:1509.06991}, 2015.
+
+\bibitem{colitti2011integrating}
+Walter Colitti, Kris Steenhaut, and Niccol De~Caro.
+\newblock Integrating wireless sensor networks with the web.
+\newblock {\em Extending the Internet to Low power and Lossy Networks (IP+ SN
+  2011)}, 2011.
+
+\bibitem{lan2003part}
+LAN/MAN~Standards Committee et~al.
+\newblock Part 11: Wireless lan medium access control (mac) and physical layer
+  (phy) specifications.
+\newblock {\em IEEE-SA Standards Board}, 2003.
+
+\bibitem{evans2011IoTtrend}
+Dave Evans.
+\newblock The internet of things - how the next evolution of the internet.
+\newblock
+  \url{http://www.cisco.com/c/dam/en_us/about/ac79/docs/innov/IoT_IBSG_0411FINAL.pdf},
+  2011.
+\newblock Accessed April, 2016.
+
+\bibitem{fielding1999hypertext}
+Roy Fielding, Jim Gettys, Jeffrey Mogul, Henrik Frystyk, Larry Masinter, Paul
+  Leach, and Tim Berners-Lee.
+\newblock Hypertext transfer protocol--http/1.1.
+\newblock 1999.
+\newblock Accessed April, 2016.
+
+\bibitem{fielding2000architectural}
+Roy~Thomas Fielding.
+\newblock {\em Architectural styles and the design of network-based software
+  architectures}.
+\newblock PhD thesis, University of California, Irvine, 2000.
+
+\bibitem{flanders2009moreonrest}
+Jon Flanders.
+\newblock Service station - more on rest.
+\newblock
+  \url{https://msdn.microsoft.com/en-us/magazine/dd942839.aspx#id0070007},
+  2009.
+\newblock Accessed April, 2016.
+
+\bibitem{fowler2010richardson}
+Martin Fowler.
+\newblock Richardson maturity model: steps toward the glory of rest.
+\newblock {\em Online at http://martinfowler.
+  com/articles/richardsonMaturityModel. html}, 2010.
+
+\bibitem{friedman2013power}
+Roy Friedman, Alex Kogan, and Yevgeny Krivolapov.
+\newblock On power and throughput tradeoffs of wifi and bluetooth in
+  smartphones.
+\newblock {\em IEEE Transactions on Mobile Computing}, 12(7):1363--1376, 2013.
+
+\bibitem{gilbert2002brewer}
+Seth Gilbert and Nancy Lynch.
+\newblock Brewer's conjecture and the feasibility of consistent, available,
+  partition-tolerant web services.
+\newblock {\em ACM SIGACT News}, 33(2):51--59, 2002.
+
+\bibitem{hadley2003soap}
+Marc Hadley, Noah Mendelsohn, J~Moreau, H~Nielsen, and M~Gudgin.
+\newblock Soap version 1.2 part 1: Messaging framework.
+\newblock {\em W3C REC REC-soap12-part1-20030624, June}, pages 240--8491, 2003.
+
+\bibitem{philip2015iottrend}
+Philip~N Howard.
+\newblock Sketching out the internet of things trendline.
+\newblock
+  \url{http://www.brookings.edu/blogs/techtank/posts/2015/06/9-future-of-iot-part-2},
+  2015.
+\newblock Accessed April, 2016.
+
+\bibitem{guildlinefor48mac2016IEEE}
+IEEE-SA.
+\newblock Guidelines for 48-bit global identifier (eui-48).
+\newblock \url{https://standards.ieee.org/develop/regauth/tut/eui48.pdf}, 2016.
+\newblock Accessed April, 2016.
+
+\bibitem{guildlinefor64mac2016IEEE}
+IEEE-SA.
+\newblock Guidelines for 64-bit global identifier (eui-64).
+\newblock \url{https://standards.ieee.org/develop/regauth/tut/eui64.pdf}, 2016.
+\newblock Accessed April, 2016.
+
+\bibitem{iOS2014ibeacon}
+iOS.
+\newblock Getting started with ibeacon.
+\newblock
+  \url{https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf},
+  2014.
+\newblock Accessed April, 2016.
+
+\bibitem{isomaki2013transmission}
+Markus Isomaki, Johanna Nieminen, Carles Gomez, Zach Shelby, Teemu Savolainen,
+  and Basavaraj Patil.
+\newblock Transmission of ipv6 packets over bluetooth low energy.
+\newblock 2013.
+
+\bibitem{kovatsch2010embedding}
+Matthias Kovatsch, Markus Weiss, and Dominique Guinard.
+\newblock Embedding internet technology for home automation.
+\newblock In {\em Emerging Technologies and Factory Automation (ETFA), 2010
+  IEEE Conference on}, pages 1--8. IEEE, 2010.
+
+\bibitem{laum2012web}
+Nico Laum, Christian Lerche, Frank Golatowski, and Dirk Timmermann.
+\newblock A web service-based communication architecture for smartphone/wpan
+  sensor ensembles.
+\newblock In {\em Proceedings of 2012 IEEE 17th International Conference on
+  Emerging Technologies Factory Automation (ETFA 2012)}, pages 1--7. IEEE,
+  2012.
+
+\bibitem{BLE2014litepoint}
+Litepoint.
+\newblock Bluetooth® low energy.
+\newblock
+  \url{http://www.litepoint.com/wp-content/uploads/2014/02/Bluetooth-Low-Energy_WhitePaper.pdf},
+  2014.
+\newblock Accessed April, 2016.
+
+\bibitem{ma2008analysis}
+Xin Ma and Wei Luo.
+\newblock The analysis of 6lowpan technology.
+\newblock In {\em 2008 IEEE Pacific-Asia Workshop on Computational Intelligence
+  and Industrial Application}, 2008.
+
+\bibitem{mitra2003soap}
+Nilo Mitra and Yves Lafon.
+\newblock Soap version 1.2 part 0: Primer.
+\newblock {\em W3C recommendation}, 24:12, 2003.
+
+\bibitem{mitsugi2011bridging}
+Jin Mitsugi, Shigeru Yonemura, Hisakazu Hada, and Tatsuya Inaba.
+\newblock Bridging upnp and zigbee with coap: protocol and its performance
+  evaluation.
+\newblock In {\em Proceedings of the workshop on Internet of Things and Service
+  Platforms}, page~1. ACM, 2011.
+
+\bibitem{na2010personal}
+Sang-Ho Na, Jun-Young Park, and Eui-Nam Huh.
+\newblock Personal cloud computing security framework.
+\newblock In {\em Services Computing Conference (APSCC), 2010 IEEE
+  Asia-Pacific}, pages 671--675. IEEE, 2010.
+
+\bibitem{nieminen2015ipv6}
+J~Nieminen, T~Savolainen, M~Isomaki, B~Patil, Z~Shelby, and C~Gomez.
+\newblock Ipv6 over bluetooth (r) low energy.
+\newblock 2015.
+\newblock Accessed April, 2016.
+
+\bibitem{nilsson2012bluetooth}
+Rolf Nilsson and Bill Saltzstein.
+\newblock Bluetooth low energy vs. classic bluetooth: Choose the best wireless
+  technology for your application.
+\newblock {\em Medical Electronics Design}, 2012.
+
+\bibitem{parkhurst2004routing}
+William~R Parkhurst.
+\newblock {\em Routing first-step}.
+\newblock Cisco Press, 2004.
+
+\bibitem{pautasso2008restful}
+Cesare Pautasso, Olaf Zimmermann, and Frank Leymann.
+\newblock Restful web services vs. big'web services: making the right
+  architectural decision.
+\newblock In {\em Proceedings of the 17th international conference on World
+  Wide Web}, pages 805--814. ACM, 2008.
+
+\bibitem{seagate2016whatispersonalcloud}
+Seagate.
+\newblock What is a personal cloud?
+\newblock
+  \url{http://www.seagate.com/ca/en/do-more/what-is-personal-cloud-master-dm/},
+  2016.
+\newblock Accessed April, 2016.
+
+\bibitem{shelby2012constrained}
+Zach Shelby.
+\newblock Constrained restful environments (core) link format.
+\newblock 2012.
+\newblock Accessed April, 2016.
+
+\bibitem{armcoaptutorial2014}
+Zach Shelby.
+\newblock Arm coap tutorial.
+\newblock \url{http://www.slideshare.net/zdshelby/coap-tutorial}, 2014.
+\newblock Accessed April, 2016.
+
+\bibitem{shelby2014constrained}
+Zach Shelby, Klaus Hartke, and Carsten Bormann.
+\newblock The constrained application protocol (coap).
+\newblock Technical report, 2014.
+
+\bibitem{bluetooth2010bluetooth}
+SIG.
+\newblock Bluetooth core specification version 4.0.
+\newblock {\em Specification of the Bluetooth System}, 2010.
+
+\bibitem{SIG2013updaebluetooth4.1}
+SIG.
+\newblock Updated bluetooth® 4.1 extends the foundation of bluetooth
+  technology for the internet of things.
+\newblock
+  \url{https://www.bluetooth.com/news/pressreleases/2013/12/04/updated-bluetooth4-1-extends-the-foundation-of-bluetooth-technology-for-the-internet-of-things},
+  2013.
+\newblock Accessed April, 2016.
+
+\bibitem{SIG2014bluetooth4.2faq}
+SIG.
+\newblock Bluetooth core specification 4.2 frequestly asked questions.
+\newblock \url{https://www.bluetooth.org/ja-jp/Documents/Bluetooth4-2FAQ.pdf},
+  2014.
+\newblock Accessed April, 2016.
+
+\bibitem{Bluetooth2016SIG}
+SIG.
+\newblock Bluetooth.
+\newblock
+  \url{https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth}, 2016.
+\newblock Accessed April, 2016.
+
+\bibitem{thangavel2014performance}
+Dinesh Thangavel, Xiaoping Ma, Alvin Valera, Hwee-Xian Tan, and Colin Keng-Yan
+  Tan.
+\newblock Performance evaluation of mqtt and coap via a common middleware.
+\newblock In {\em Intelligent Sensors, Sensor Networks and Information
+  Processing (ISSNIP), 2014 IEEE Ninth International Conference on}, pages
+  1--6. IEEE, 2014.
+
+\bibitem{torvmark2013threeflavourofbluetooth}
+Karl~Helmer Torvmark.
+\newblock Three flavors of bluetooth: Which one to choose?
+\newblock \url{http://www.edn.com/Home/PrintView?contentItemId=4405960}, 2013.
+\newblock Accessed April, 2016.
+
+\end{thebibliography}

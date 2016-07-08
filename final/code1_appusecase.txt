@@ -1,0 +1,25 @@
+App testapp = new App ("333","5555");
+testapp.InitSenders (1);
+testapp.InitReceiver ();
+testapp.InitProcessers (1); 
+testapp.SetDefaultResponseHandler(((ushort MsgID, CoAPResponse Resp) => {
+	Console.WriteLine("Received Response for " + MsgID.ToString());    
+}));
+testapp.RegisterResource ("coap://virtual:5683/temperature",(Device sender, CoAPRequest request) => {  
+				CoAPResponse resp = new CoAPResponse(CoAPMsgType.ACK , CoAPMsgCode.CONTENT , request);   
+				resp.SetURL("coap://virtual:5683/temperature");
+				resp.Options.AddOption(CoAPHeaderOption.MAX_AGE,new byte[]{0x00,0x00,0x01,0x00});
+				resp.AddPayload("virtual/OK"); 
+				RunOnUiThread (() => { 
+					testconsole.Text+="received a virtual request";
+
+				}); 
+				return resp; 
+}); 
+
+testapp.network.SetRecvDataFunc (( Device From, byte[] data) => { 
+				receivethread.Push(new ReceiveObject(From,data)); 
+});
+testapp.SetPeerFoundCallback (peerfoundFunction);
+testapp.SetPeerLostCallback (peerlostFunction);  
+testapp.Run(ROLE.AUTO);

@@ -1,0 +1,14 @@
+public override StartCommandResult OnStartCommand (Intent intent, StartCommandFlags flags, int startId){  
+	INSTANCE = this;
+	NP2PSServiceBroadCastReceiver np2psBoadCastReceiver = new NP2PSServiceBroadCastReceiver (this); 
+	IntentFilter intentFilter = new IntentFilter (); 
+	intentFilter.AddAction (NP2PGlobal.SENDANNOUNCEMENT_ACTION);
+	intentFilter.AddAction (NP2PGlobal.SENDMESSAGE_ACTION);   
+	intentFilter.AddAction (NP2PGlobal.TEST_INTERVAL_ACTION);   
+	RegisterReceiver (np2psBoadCastReceiver,intentFilter);   
+	workingthread= new Thread (new ThreadStart (() => {
+		startAdvertizing (); 
+	}));
+	workingthread.Start ();  
+	return StartCommandResult.Sticky;
+}  

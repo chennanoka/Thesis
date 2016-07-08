@@ -1,0 +1,11 @@
+public override StartCommandResult OnStartCommand (Intent intent, StartCommandFlags flags, int startId){ 
+	INSTANCE = this;  
+	NP2PCServiceBroadCastReceiver np2pcsBoadCastReceiver = new NP2PCServiceBroadCastReceiver (this); 
+	IntentFilter intentFilter = new IntentFilter (); 
+	intentFilter.AddAction (NP2PGlobal.SENDANNOUNCEMENT_ACTION);
+	intentFilter.AddAction (NP2PGlobal.SENDMESSAGE_ACTION);
+	intentFilter.AddAction (NP2PGlobal.SENDNEWANNOUNCEMENT_ACTION);
+	RegisterReceiver (np2pcsBoadCastReceiver,intentFilter);   
+	startLeScan(); 
+	return StartCommandResult.Sticky;
+} 
